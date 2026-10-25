@@ -41,12 +41,7 @@ The app stores its array in React component state, initialized from `initialAsse
 ## Testing
 Run `npm test`. Tests cover initial data, add, edit, delete, duplicate IDs, missing required fields, and invalid status. Do not claim tests have passed unless you run them in your environment.
 
-## Submission checklist
-- [x] Developer information: Lina Bin Muammar (222410450).
-- [ ] Confirm instructor approval for individual submission (assignment specifies teams of 3–4).
-- [ ] Run the application and automated tests.
-- [ ] Commit and push to a **public GitHub repository**.
-- [ ] Submit the GitHub URL after confirming individual submission is allowed.
+
 
 ## Suggested repository commands
 ```bash
