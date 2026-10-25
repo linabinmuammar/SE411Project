@@ -42,14 +42,3 @@ The app stores its array in React component state, initialized from `initialAsse
 Run `npm test`. Tests cover initial data, add, edit, delete, duplicate IDs, missing required fields, and invalid status. Do not claim tests have passed unless you run them in your environment.
 
 
-
-## Suggested repository commands
-```bash
-git init
-git add .
-git commit -m "SE411 Part 1: React IT asset manager"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
-git push -u origin main
-```
-Create the empty public GitHub repository first. Do not commit `node_modules`.
